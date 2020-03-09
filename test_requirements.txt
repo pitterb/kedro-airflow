@@ -8,5 +8,5 @@ pylint>=2.4.4, <3.0
 pytest
 pytest-cov
 pytest-mock
-trufflehog>=2.0.99
+trufflehog>=2.1.0, <3.0
 wheel
